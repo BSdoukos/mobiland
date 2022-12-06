@@ -1,0 +1,20 @@
+.card-container {
+    padding: 0;
+}
+
+.container {
+    padding: 5rem 15rem;
+}
+
+.page-description-box {
+    margin-bottom: 4rem;
+}
+
+.page-description-box__title {
+    font-size: 35px;
+}
+
+.page-description-box__text {
+    font-size: 35px;
+    font-size: 1.25rem;
+}
